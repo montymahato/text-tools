@@ -1,22 +1,4 @@
-#darkmodeText {
-    background-color: white;
-}
-
-#lightmodeText {
-    background-color: black;
-    color: white;
-}
-
-#myBoxblack {
-    background-color: black;
-    color: white;
-}
-
-#myBoxwhite {
-    background-color: white;
-    color: black;
-}
-
-#titleimage {
-    background-image: image-set(strblack);
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body {
+    font-family: 'Poppins';
 }
